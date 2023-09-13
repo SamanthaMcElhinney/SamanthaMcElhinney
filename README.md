@@ -9,7 +9,7 @@
 
 ### <div align="center">
   
-🌼 I’m currently refactoring  my earlier projects with TypeScript and making them more responsive.
+🌼 I’m currently working towards becoming a full stack engineer learning Node.js and PostgreSQL 
   
 🌸 Fun fact: I grew up on a farm in the midwest and specialized in dysphagia and communication devices prior to tech.
 
